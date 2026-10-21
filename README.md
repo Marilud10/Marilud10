@@ -16,7 +16,13 @@ Actualmente estoy fortaleciendo mis conocimientos técnicos, mi inglés y mis ha
 
 ---
 
-## 🌷 Sobre mí
+<div align="center">
+
+## Sobre mí
+
+✧･ﾟ: *✧･ﾟ:* ♡ *:･ﾟ✧*:･ﾟ✧
+
+</div>
 
 - 🎓 **Formación:** Programación de Software — Campusland.
 - 💻 **Área de interés:** desarrollo de software y aplicaciones web.
