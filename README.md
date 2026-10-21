@@ -1,4 +1,4 @@
-# 🌸 ¡Hola! Soy Marilud Uribe
+# ¡Hola! Soy Marilud Uribe
 
 ### 💻 Estudiante de Programación de Software | Desarrolladora en formación
 
