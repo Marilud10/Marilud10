@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.png" alt="Banner de Marilud10" width="100%">
+</div>
+
 # ¡Hola! Soy Marilud Uribe
 
 ### 💻 Estudiante de Programación de Software | Desarrolladora en formación
