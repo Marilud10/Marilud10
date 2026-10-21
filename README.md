@@ -14,13 +14,13 @@ Me caracterizo por ser una persona curiosa, persistente y orientada al aprendiza
 
 Actualmente estoy fortaleciendo mis conocimientos técnicos, mi inglés y mis habilidades interpersonales para crecer como profesional y aportar valor a los equipos y proyectos en los que participe.
 
----
+
 
 <div align="center">
 
 ## Sobre mí
 
-✧･ﾟ: *✧･ﾟ:* ♡ *:･ﾟ✧*:･ﾟ✧
+✦ ━━━━━━━━━━━━━━━━━ ✦
 
 </div>
 
